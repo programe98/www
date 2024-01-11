@@ -1,0 +1,408 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;600;700&family=Poppins:wght@300;400&display=swap');
+
+*{font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;}
+   
+
+.top{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 158, 227);
+
+}
+
+.texto-do-post1-dev{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-bottom: 9px solid rgb(242, 242, 242);
+
+}
+
+
+/*data tag da data*/
+.data-post{
+      
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    margin-left: 5px;
+    margin-top: 7px;
+font-weight: 100;
+font-size: 9px;
+}
+
+
+.ppppppp{
+    margin-left: 12px;
+  
+}
+.ppaaaa{
+    text-decoration: none;
+    color: black;
+}
+
+
+    
+.tv-assina{
+    background-color: yellow;
+    padding: 4px;
+    width: 25px;
+    margin-right: 12px;
+    border-radius: 50%;
+    transition: .2s;
+}
+.tv-assina:hover{
+    border: 2px solid yellow ;
+    background-color: rgb(0, 158, 227);
+}
+
+.seta-post1{
+    width: 25px;
+    border-radius: 50%;
+padding: 4px;
+background-color: yellow;
+    margin-left: 12px;
+    transition: .2s;
+}
+
+.seta-post1:hover{
+    border: 2px solid yellow;
+    background-color: transparent;
+    border: 2px solid yellow;
+}
+
+
+
+
+.positin-barra{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(0, 158, 227) ;
+    position: fixed;
+    bottom: 0px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.copa{
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+
+
+
+
+.exclusivo-image{
+ 
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 5px;
+    transition: .3s;
+    margin-right: 12px;
+    padding: 5px;
+    width: 35px;
+    transition: .2s;
+}
+
+.exclusivo-image:hover{
+    border: 2px solid rgb(0, 158, 227) ;
+}
+
+.exclusivo-div{
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+  display: flex;
+  justify-content: right;
+    position: fixed;
+
+bottom: 20%;
+}
+
+
+
+
+.image-olho{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    transition: .1s;
+}
+
+.image-olho:hover{
+
+    background-color: yellow;
+}
+
+
+.hrdoolho{
+    width: 80% ;
+  border: 1px solid yellow;
+}
+
+
+
+.olho{
+    align-items: center;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+
+
+
+.video-conteudo-video{
+    width: 100%;
+ cursor: pointer;
+
+}
+
+
+
+
+
+/*div do video post principal */
+.div-do-video{
+    width: 100%;
+background-color: rgb(19, 25, 33);
+}
+
+
+
+
+
+
+
+.testo0-top{
+    background-color: yellow;
+    padding: 2px 90px;
+    border-radius: 12px;
+    color: black;
+}
+
+.logo-patrocinio-direito{
+    margin-left: 12px;
+    border-radius: 50%;
+margin-top: 5px;
+width: 100px;
+
+    width: 100px;
+  margin-right: 12px;
+    background-color: white;
+   
+padding: 2px 33px;
+ border-radius: 20px;
+}
+
+
+.patreocinio-do-image{
+    width: 100%;
+    height: 40px;
+    display: flex;
+   align-items: center;
+  justify-content: space-between;
+
+    background-color: rgb(19, 25, 33);
+}
+
+
+.logo-patrocinio{
+    width: 30px;
+    margin-left: 12px;
+    border-radius: 50%;
+border: 1px solid white;
+}
+
+
+
+.paragro-patro{
+    margin-left: 12px;
+    color: white;
+margin-right: 12px;
+}
+
+.div-dotex-blaze{
+    background-color: rgb(19, 25, 33);
+    width: 100%;
+}
+
+.botoes-div{
+    width: 100%;
+    display: flex;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 25, 33);
+   
+}
+
+.aaaaaaaaa{
+    text-decoration: none;
+    margin-right: 12px;
+    color:  white;
+    padding: 3px 33px;
+    border-radius: 12px;
+  border: 2px solid white;
+  transition: .3s;
+}
+
+
+.bbbbbbbbbbbb{
+    background-color: white;
+    margin-left: 12px;
+    text-decoration: none;
+    padding: 3px 33px;
+    border-radius: 12px;
+    color: black;
+    transition: .3s;
+}
+.bbbbbbbbbbbb:hover{
+    color: rgb(0, 158, 227);
+}
+
+
+.aaaaaaaaa:hover{
+    background-color: white ;
+    color: rgb(0, 158, 227);
+    border: 1px solid white;
+}
+
+
+
+.div-dotex-blaze{
+ width: 100%;
+ justify-content: center;
+}
+
+.video-post1-relo1{
+    width: 100%;
+    margin-top: 12px;
+}
+
+.video-rolo1{
+    width: 100%;
+    border-radius: 12px;
+}
+
+
+
+
+/*teste*/
+
+.post12{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.data-post{
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    font-size: 8px;
+margin-left: 13px;
+
+  margin-top: 14px;
+   background-color:  rgb(0, 158, 227) ;
+    padding: 0.6px;
+     border-radius: 1.8px;
+}
+
+.poster-img{
+    width: 100%;
+}
+
+
+.texto-do-post1-dev{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 9px solid rgb(242, 242, 242);
+
+}
+
+
+.image-capa1{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.capa-post1{
+    margin-left: 12px;
+    width: 20px;
+    height: 20px;
+ 
+}
+
+
+.mimo{
+    width: 10%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.icone-mimo{
+    width: 20px; 
+height: 24px;
+  
+    padding: 2px;
+   margin-right: 4px;
+  
+}
+
+
+
+
+
+
+/*div do video*/
+.goupp-midia-video{
+    width: 95%;
+    margin-top: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
